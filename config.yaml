@@ -11,7 +11,7 @@ params:
   googleAnalyticsID: ''
   logo:
     text1: Yuleinis
-    text2: Lara
+    text2: A. Lara
   plugins:
     css:
       - URL: css/main.css

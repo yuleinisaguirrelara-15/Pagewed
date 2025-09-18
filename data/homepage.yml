@@ -4,9 +4,10 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
-  subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  title: "Hola, soy Yuleinis Aguirre Lara."
+  subtitle: "Ingeniera Ambiental y Sanitaria"
+  description: "Estudiante de la universidad del Magdalena con conocimientos académicos en gestión integral de recursos naturales y normatividad ambiental colombiana. Interesada en contribuir desde mis conocimientos de manera responsable, con capacidad para trabajar en equipo 
+y adaptarme a ambientes dinámicos."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -16,58 +17,32 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
+    btnText: "Contacta me"
     URL: "mailto:your-email@gmail.com"
 
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com"
-
     - icon: "github"
-      URL: "https://github.com"
+      URL: "https://github.com/yuleinisaguirrelara-15"
 
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.instagram.com/unmundosostenible__/?igsh=MXh0cDN2bm9kNzU4OQ%3D%3D#"
 
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Quién soy?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    <strong> Me interesa los sistemas de información geográficas ,</strong> es una tecnología que te permite capturar, almacenar, gestionar y analizar datos de información geoespacial a través de hardware y software. Además, me gusta mucho bailar y dibujar. 
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <strong>Mi propósito </strong> es aportar a la toma de decisiones responsables en proyectos de infraestructura, servicios público y actividades productivas, garantizando el cumplimiento normativo y la protección de los recursos naturales. 
+    Me motiva contribuir a la construcción del desarrollo sostenible que integre aspectos ambientales, sociales y económicos, de tal manera que se generen soluciones que promuevan la conservación del entorno y el bienestar de las comunidades.
     </p>
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
+    btnText: "Sobre mi"
     URL: "https://www.linkedin.com"
   image:
     x: "img/who-am-i/user-picture-2.jpg"
@@ -76,7 +51,7 @@ about:
 # experience
 experience:
   enable: true
-  title: "Experience"
+  title: "Experencia"
   description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
@@ -103,19 +78,23 @@ experience:
 # education
 education:
   enable: true
-  title: "Education"
+  title: "Educación"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
-
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
+    - university: "Universidad del Magdalena"
+      year: "2021-2025"
+      degree: "Ingeniera ambiental y sanitaria"
       
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
+    - university: "Universidad del Magdalena"
+      year: "2024"
+      degree: "Curso en sistema de información geográfica"
+
+    - university: "Colegio Grancolombiano"
+      year: "2012 - 2018"
+      degree: "Bachiller"
+      
+    - university: " Colegio Grancolombiano"
+      year: "2017-2018"
+      degree: "Técnica en diseño gráfico"
 
 
 
@@ -157,34 +136,23 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Mundo sostenible "
+      description: "jjj"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        URL: "https://www.instagram.com/unmundosostenible__/?igsh=MXh0cDN2bm9kNzU4OQ%3D%3D#"
       image:
         x: "img/works/app_sales_demand_forecast.jpg"
         _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true
-
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-      image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
 
     
 
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Testimonio"
   items:
   
     - name: "Justin Kurland, PhD"

@@ -137,7 +137,7 @@ client_and_work:
 
   works:
     - title: "Mundo sostenible "
-      description: "jjj"
+      description: "jj"
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
